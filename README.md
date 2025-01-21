@@ -22,7 +22,8 @@ In each folder are available the statements and my respective resolutions that w
 10. Recursion.
 11. Definition of new data types. Brief introduction to object programming.
 
-Link to the course: <img align="center" alt="FCUP" src="[https://img.shields.io/badge/Python-3776AB](https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=508291)?style=for-the-badge&logo=python&logoColor=white" />
+Link to the course: 
+<img align="center" alt="FCUP" src="https://img.shields.io/badge/Python-3776AB](https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=508291?style=for-the-badge&logo=python&logoColor=white" />
 
 ## Programming Language:
 
