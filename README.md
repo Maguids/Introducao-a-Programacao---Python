@@ -8,6 +8,12 @@ In each folder are available the statements and my respective resolutions that w
 
 ---
 
+## Programming Language:
+
+<div style = "display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+
 ## Objectives of this course:
 
 1. Brief historical introduction to computers and programming languages.
@@ -26,13 +32,8 @@ In each folder are available the statements and my respective resolutions that w
 
 <div style="display: inline_block"><br/>
   <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507445">
-    <img align="center" alt="course-link" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=Google&logoColor=white" />
+    <img align="center" alt="FCUP" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=book&logoColor=white" />
   </a>
 </div><br/>
 
 
-## Programming Language:
-
-<div style = "display: inline_block"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
