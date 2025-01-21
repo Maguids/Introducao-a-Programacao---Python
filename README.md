@@ -19,23 +19,24 @@ In each folder are available the statements and my respective resolutions that w
 
 This course is part of the **<u>first semester</u>** of the **<u>first year</u>** of the **<u>Bachelor's Degree in Artificial Intelligence and Data Science</u>** at **<u>FCUP</u>** and **<u>FEUP</u>**. You can find more information about this chair at the following link:
 
-<div style="display">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507445">
-    <img alt="Course" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=logoColor=white" />
+    <img alt="Link to Course" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=logoColor=white" />
   </a>
-  
-  <a href="https://sigarra.up.pt/fcup/pt/web_page.inicial">
-    <img alt="FCUP" src="https://img.shields.io/badge/FCUP-808080?style=for-the-badge&logo=logoColor=grey" />
-  </a>
-  <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">
-    <img alt="FEUP" src="https://img.shields.io/badge/FEUP-808080?style=for-the-badge&logo=logoColor=grey" />
-  </a>
-  
-  <a href="https://mooshak.yourinstitution.edu">
+
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <a href="https://sigarra.up.pt/fcup/pt/web_page.inicial">
+      <img alt="FCUP" src="https://img.shields.io/badge/FCUP-808080?style=for-the-badge&logo=logoColor=grey" />
+    </a>
+    <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">
+      <img alt="FEUP" src="https://img.shields.io/badge/FEUP-808080?style=for-the-badge&logo=logoColor=grey" />
+    </a>
+  </div>
+
+  <a href="https://mooshak.dcc.fc.up.pt/">
     <img alt="Mooshak" src="https://img.shields.io/badge/Mooshak-F67828?style=for-the-badge&logo=logoColor=orange" />
   </a>
 </div>
-
 
 
 ## Objectives of this course:
