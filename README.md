@@ -30,10 +30,19 @@ In each folder are available the statements and my respective resolutions that w
 
 ## Link to the course: 
 
+This course is part of the **<u>first semester</u>** of the **<u>first year</u>** of the **<u>Bachelor's Degree in Artificial Intelligence and Data Science</u>** at <u>FCUP</u>** and <u>FEUP</u>**. You can find more information about this chair at the following link:
+
 <div style="display: inline_block"><br/>
   <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507445">
-    <img align="center" alt="FCUP" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=book&logoColor=white" />
+    <img align="center" alt="Course" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=book&logoColor=white" />
+  </a>
+  <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507445">
+    <img align="center" alt="FCUP" src="https://sigarra.up.pt/fcup/pt/web_page.inicial?style=for-the-badge&logo=book&logoColor=white" />
+  </a>
+  <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507445">
+    <img align="center" alt="FEUP" src="https://sigarra.up.pt/fcup/pt/web_page.inicial?style=for-the-badge&logo=book&logoColor=white" />
   </a>
 </div><br/>
+
 
 
